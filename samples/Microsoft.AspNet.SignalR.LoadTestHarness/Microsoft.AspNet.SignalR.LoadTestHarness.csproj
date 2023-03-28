@@ -13,7 +13,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Microsoft.AspNet.SignalR.LoadTestHarness</RootNamespace>
     <AssemblyName>Microsoft.AspNet.SignalR.LoadTestHarness</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <RestorePackages>true</RestorePackages>
     <FileUpgradeFlags>
